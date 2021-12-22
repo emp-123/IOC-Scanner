@@ -1,0 +1,163 @@
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.exe
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.deps.json
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.json
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.dev.json
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.AssemblyReference.cache
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC_Scanner.Form1.resources
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.GenerateResource.cache
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfo.cs
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\source\repos\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.genruntimeconfig.cache
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.exe
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.deps.json
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.json
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.dev.json
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.AssemblyReference.cache
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC_Scanner.Form1.resources
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.GenerateResource.cache
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfoInputs.cache
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfo.cs
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.genruntimeconfig.cache
+C:\Users\Emily\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\PowerCollections.dll
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.exe
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.deps.json
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.json
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC_Scanner.Form1.resources
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfo.cs
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\Desktop\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.genruntimeconfig.cache
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.exe
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.deps.json
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.json
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.dev.json
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.AssemblyReference.cache
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC_Scanner.Form1.resources
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.GenerateResource.cache
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfoInputs.cache
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfo.cs
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Emily\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.genruntimeconfig.cache
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.exe
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.deps.json
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.json
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC_Scanner.Form1.resources
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfo.cs
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\Desktop\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.genruntimeconfig.cache
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.exe
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.deps.json
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.json
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.dev.json
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.AssemblyReference.cache
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC_Scanner.Form1.resources
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.GenerateResource.cache
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfoInputs.cache
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfo.cs
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Emily\Downloads\devl 2\devl\IOC Scanner\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.genruntimeconfig.cache
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.exe
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.deps.json
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.json
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.dev.json
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\bin\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.AssemblyReference.cache
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\obj\Debug\net5.0-windows\IOC_Scanner.Form1.resources
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.GenerateResource.cache
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfoInputs.cache
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfo.cs
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\obj\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Emily\Desktop\New folder\IOC Scanner 0.1.0\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.genruntimeconfig.cache
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.exe
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.deps.json
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.json
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Debug\net5.0-windows\IOC_Scanner.Form1.resources
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfo.cs
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.genruntimeconfig.cache
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.exe
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.deps.json
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.json
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\bin\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\bin\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.AssemblyReference.cache
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\obj\Debug\net5.0-windows\IOC_Scanner.Form1.resources
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.AssemblyInfo.cs
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\obj\Debug\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\Desktop\IOC Scanner 0.2.1\IOC Scanner\obj\Debug\net5.0-windows\IOC Scanner.genruntimeconfig.cache

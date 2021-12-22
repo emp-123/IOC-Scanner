@@ -1,0 +1,17 @@
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Release\net5.0-windows\IOC Scanner.exe
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Release\net5.0-windows\IOC Scanner.deps.json
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Release\net5.0-windows\IOC Scanner.runtimeconfig.json
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Release\net5.0-windows\IOC Scanner.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Release\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Release\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\Desktop\p\IOC Scanner\bin\Release\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Release\net5.0-windows\IOC_Scanner.Form1.resources
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Release\net5.0-windows\IOC Scanner.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Release\net5.0-windows\IOC Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Release\net5.0-windows\IOC Scanner.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Release\net5.0-windows\IOC Scanner.AssemblyInfo.cs
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Release\net5.0-windows\IOC Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Release\net5.0-windows\IOC Scanner.dll
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Release\net5.0-windows\ref\IOC Scanner.dll
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Release\net5.0-windows\IOC Scanner.pdb
+C:\Users\Dev\Desktop\p\IOC Scanner\obj\Release\net5.0-windows\IOC Scanner.genruntimeconfig.cache
